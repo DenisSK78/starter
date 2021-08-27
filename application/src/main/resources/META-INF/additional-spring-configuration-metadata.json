@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "demo.starter.password.key",
+      "type": "java.lang.String",
+      "description": "Description for demo.starter.password.key."
+    },
+    {
+      "name": "demo.starter.duration.period",
+      "type": "java.time.Duration",
+      "description": "Description for demo.starter.duration.period."
+    },
+    {
+      "name": "demo.starter.enabled",
+      "type": "java.lang.String",
+      "description": "Description for demo.starter.enabled."
+    }
+  ] }
